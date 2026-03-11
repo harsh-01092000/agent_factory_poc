@@ -1,0 +1,3 @@
+# Agent Factory POC
+
+This repository is a Proof of Concept for an agent factory project. It demonstrates basic functionalities and serves as an experimental ground for new ideas. The focus is on innovative approaches to agent management and deployment. The POC aims to lay the groundwork for advanced agent systems in real-world scenarios. It's a playground for testing new features before production.
